@@ -1,0 +1,8 @@
+c:\users\sudhiraw\documents\visual studio 2015\Projects\ProductSentimentAnalysis\ProductSentimentAnalysis\bin\Debug\ProductSentimentAnalysis.exe.config
+c:\users\sudhiraw\documents\visual studio 2015\Projects\ProductSentimentAnalysis\ProductSentimentAnalysis\bin\Debug\ProductSentimentAnalysis.exe
+c:\users\sudhiraw\documents\visual studio 2015\Projects\ProductSentimentAnalysis\ProductSentimentAnalysis\bin\Debug\ProductSentimentAnalysis.pdb
+c:\users\sudhiraw\documents\visual studio 2015\Projects\ProductSentimentAnalysis\ProductSentimentAnalysis\obj\Debug\ProductSentimentAnalysis.exe
+c:\users\sudhiraw\documents\visual studio 2015\Projects\ProductSentimentAnalysis\ProductSentimentAnalysis\obj\Debug\ProductSentimentAnalysis.pdb
+c:\users\sudhiraw\documents\visual studio 2015\Projects\ProductSentimentAnalysis\ProductSentimentAnalysis\obj\Debug\ProductSentimentAnalysis.csprojResolveAssemblyReference.cache
+c:\users\sudhiraw\documents\visual studio 2015\Projects\ProductSentimentAnalysis\ProductSentimentAnalysis\bin\Debug\Newtonsoft.Json.dll
+c:\users\sudhiraw\documents\visual studio 2015\Projects\ProductSentimentAnalysis\ProductSentimentAnalysis\bin\Debug\Newtonsoft.Json.xml
