@@ -70,7 +70,7 @@ namespace ProductSentimentAnalysis
                     request.Method = "POST";
                     // Set the ContentType property of the WebRequest.
                     request.ContentType = "application/json";
-                    request.Headers.Add("Ocp-Apim-Subscription-Key:d49f0db2966c4419b994a9ddd0389997"); //Create Cognitive service from Azure portal and add it key here
+                    request.Headers.Add("Ocp-Apim-Subscription-Key:XXXXXXXXXXXXXX"); //Create Cognitive service from Azure portal and add it key here
                     request.ContentLength = httprequestbody.Length;
                     using (var stream = new StreamWriter(request.GetRequestStream()))
                     {

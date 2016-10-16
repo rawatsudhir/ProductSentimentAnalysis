@@ -1,0 +1,22 @@
+/****** Object:  Table [dbo].[TweetFromTwitter]    Script Date: 10/16/2016 10:25:40 AM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[TweetFromTwitter](
+	[Tweet_id] [int] IDENTITY(1,1) NOT NULL,
+	[Description] [varchar](max) NULL,
+	[Location] [varchar](max) NULL,
+	[Name] [varchar](max) NULL,
+	[Retweet_Count] [int] NULL,
+	[Tweet_Text] [varchar](max) NULL,
+	[Tweeted_By] [varchar](max) NULL,
+	[User_Name] [varchar](max) NULL,
+	[Score] [float] NULL,
+	[Created_At] [varchar](max) NULL
+)
+
+GO
+
